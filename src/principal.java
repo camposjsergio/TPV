@@ -6,7 +6,8 @@ public class principal {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Había una vez...");
+		System.out.print("Había una vez...");
+		System.out.println("un circo... que ha llegado siempre al corazón...");
 	}
 
 }
